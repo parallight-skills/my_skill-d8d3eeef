@@ -1,0 +1,19 @@
+{
+  "name": "my_skill",
+  "owner": {
+    "name": "Parallight Skills",
+    "url": "https://github.com/parallight-skills"
+  },
+  "metadata": {
+    "description": "我在 Lab-5 做的 skill/MCP"
+  },
+  "plugins": [
+    {
+      "name": "my_skill",
+      "description": "我在 Lab-5 做的 skill/MCP",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "ml"
+    }
+  ]
+}
